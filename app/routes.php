@@ -19,4 +19,4 @@ Route::get('/', function()
 Route::get('users', function()
 {
 	return "Duc Dung";
-})
+});
