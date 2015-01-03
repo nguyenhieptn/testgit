@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('hi hi :D');
 });
 
 Route::get('users', function()
